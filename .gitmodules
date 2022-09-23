@@ -1,0 +1,3 @@
+[submodule "kalisso_spa"]
+	path = kalisso_spa
+	url = https://github.com/Kalisso/kalisso_spa.git
